@@ -1,2 +1,2 @@
 # reza.github.io
-my first website 
+Practicing HTML5,CSS3 and JavaScript
