@@ -1,0 +1,17 @@
+body{
+    padding: 40px;
+}
+.module{
+    width: 350px;
+    height: 300px;
+    background: white;
+    position: relative;
+    border: 10px solid blue;
+    margin:20px;
+}
+.biggertext{
+    font-size: 4em;
+    font-weight: bold;
+    
+    
+}
